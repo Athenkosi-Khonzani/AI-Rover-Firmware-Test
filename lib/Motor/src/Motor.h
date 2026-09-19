@@ -86,8 +86,8 @@ class motor
 
         battery _battery;
 
-        float _motorMinimumVoltage = 3.0f;
-        float _motorMaximumVoltage = 6.0f;
+        float _motorMinimumVoltage = 2.5f;
+        float _motorMaximumVoltage = 5.0f;
         float _batteryVoltage = 0.0f;
 
         int _minimumPWM = 0;

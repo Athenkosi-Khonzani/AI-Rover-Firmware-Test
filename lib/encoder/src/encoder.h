@@ -9,9 +9,9 @@
 // deliberately INPUT. The PCB provides optional external 10k pull-ups.
 // -----------------------------------------------------------------------------
 #define ENCODER_FL_PIN 34
-#define ENCODER_FR_PIN 35
-#define ENCODER_RL_PIN 36
-#define ENCODER_RR_PIN 39
+#define ENCODER_FR_PIN 39
+#define ENCODER_RL_PIN 35
+#define ENCODER_RR_PIN 36
 
 #define ENCODER_FL 1
 #define ENCODER_FR 2
